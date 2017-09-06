@@ -1,5 +1,5 @@
 {
-    "name": "chrome-har-capturer",
+    "name": "ios-har-builder",
     "author": "Andrea Cardaci <cyrus.and@gmail.com>",
     "description": "Capture HAR files from a remote Chrome instance",
     "keywords": [
